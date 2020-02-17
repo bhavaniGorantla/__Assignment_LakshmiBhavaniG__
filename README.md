@@ -9,7 +9,7 @@ Starting scene in the game
 "Play" button loads the game scene
 "Score" - shows the player's all time highest score
 
-Game Scene
+2. Game Scene
 
 As soon as gamescene is loaded player[snake] starts to move forward .
 Use keyboard keys to move in directions: 
